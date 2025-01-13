@@ -20,7 +20,7 @@ app.use(express.json());
 app.use(express.urlencoded({extended:true}));
 app.use(cookieParser());
 const corsOptions = {
-    origin:'https://nexthire-1qrr.onrender.com',
+    origin:'https://nexthire-kgbf.onrender.com',
     credentials:true
 }
 
