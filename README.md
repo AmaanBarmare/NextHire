@@ -1,6 +1,6 @@
 # NextHire
 
-NextHire is a comprehensive job portal designed to streamline job searching and hiring processes for students, recruiters, and companies. Built with modern technologies, NextHire offers a seamless and intuitive user experience for managing job postings, applications, and user profiles.
+NextHire is a comprehensive job portal designed to streamline job searching and hiring processes for students, recruiters, and companies. Built with MERN stack (MongoDB, Express.js, React.js, and Node.js), NextHire offers a seamless and intuitive user experience for managing job postings, applications, and user profiles.
 
 ## Features
 
@@ -30,7 +30,7 @@ NextHire is a comprehensive job portal designed to streamline job searching and 
 ### Backend
 - **Node.js**: Server-side logic.
 - **Express.js**: Web framework for building RESTful APIs.
-- **MongoDB**: NoSQL database for storing user, job, and application data.
+- **MongoDB**: Database for storing user, job, and application data.
 - **Cloudinary**: Media storage for profile pictures and company logos.
 
 ### Tools and Libraries
