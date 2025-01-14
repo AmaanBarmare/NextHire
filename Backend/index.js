@@ -20,7 +20,7 @@ app.use(express.json());
 app.use(express.urlencoded({extended:true}));
 app.use(cookieParser());
 const corsOptions = {
-    origin:'https://next-hire.netlify.app/',
+    origin:'https://next-hire.netlify.app',
     credentials:true
 }
 
